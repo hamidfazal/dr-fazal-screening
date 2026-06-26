@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 // ---------- CONFIG ----------
 const SHARED_SECRET = 'DrFazal2026'; // <-- CHANGE THIS IF YOU WANT
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz6pe_ESdDz3M35c4xjLJ05pw2R3dFSYoSuJWtYNUiUEuHpUb1nKdBPGc8dF7z1Rpx0/exec'; // <-- FILL AFTER DEPLOY
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyHQuybRg34weiSd3Zcxe3iZT2-W_G2e_rDteiCKiZWVL8oDtbin7JiTB5uJPnB3DY4/exec'; // <-- FILL AFTER DEPLOY
 
 export default function App() {
   // --- State ---
