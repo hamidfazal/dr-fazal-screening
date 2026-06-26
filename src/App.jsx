@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 // ---------- CONFIG ----------
 const SHARED_SECRET = 'DrFazal2026'; // <-- CHANGE THIS IF YOU WANT
-const APPS_SCRIPT_URL = 'PASTE_YOUR_APPS_SCRIPT_EXEC_URL_HERE'; // <-- FILL AFTER DEPLOY
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz_Tsm3XRdjyXZ_rl7f4_euQiL7wEyfPgQLxwX6hRYTVM87g76VlTJulopsQe12_-A7/exec'; // <-- FILL AFTER DEPLOY
 
 export default function App() {
   // --- State ---
