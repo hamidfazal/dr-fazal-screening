@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 // ---------- CONFIG ----------
 const SHARED_SECRET = 'DrFazal2026';
-const APPS_SCRIPT_URL = 'PASTE_YOUR_APPS_SCRIPT_EXEC_URL_HERE'; // <-- UPDATE AFTER DEPLOY
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxEtm1Y4kFpW9ntTwgFDBOUPc4AxiIoqNJsW7utOMstlyCgqX0a4qQBzRZoH_4XgXxT/exec'; // <-- UPDATE AFTER DEPLOY
 
 export default function App() {
   // --- All form fields (V1 + V2 new ones) ---
